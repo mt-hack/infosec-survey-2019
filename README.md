@@ -9,5 +9,5 @@ This survey is part of a research project done at the Taiwan Pingtung University
 
 ## 問卷連結 Related Links
 
-[English questionnaire design paper](https://1drv.ms/w/s!AjOrJMOIR6BMicFB-ZPToQX6oBltag) (not available on TypeForm due the the lower number of foreign participants)
-[中文問卷 (TypeForm)](https://survey.stillu.cc)
+* [English questionnaire design paper](https://1drv.ms/w/s!AjOrJMOIR6BMicFB-ZPToQX6oBltag) (not available on TypeForm due the the lower number of foreign participants)
+* [中文問卷 (TypeForm)](https://survey.stillu.cc)
