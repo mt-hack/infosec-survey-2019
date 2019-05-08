@@ -9,5 +9,15 @@ This survey is part of a research project done at [Pingtung University](https://
 
 ## 問卷連結 Related Links
 
-* [English questionnaire design paper](https://1drv.ms/w/s!AjOrJMOIR6BMicFB-ZPToQX6oBltag) (not available on TypeForm due the the lower number of foreign participants)
+* [Questionnaire design](https://1drv.ms/w/s!AjOrJMOIR6BMicFB-ZPToQX6oBltag)
+  - Draft designed prior to TypeForm
+  - The questionnaire is not available on TypeForm due to its lack of multilingual support
 * [中文問卷 (TypeForm)](https://survey.stillu.cc)
+  - 正式發放給學生的問卷
+  - 此問卷將透過 CloudFlare 以及 AWS S3 將填寫人轉導至 TypeForm 連結中
+
+## 有問題或建議嗎? Feedback
+
+If you have any suggestions or questions regarding the survey or the overall design of the paper, feel free to [file an issue](https://github.com/mt-hack/infosec-survey-2019/issues)!
+
+若您對本問卷有任何疑慮或建議，歡迎至我們的 [Issues](https://github.com/mt-hack/infosec-survey-2019/issues) 專區提問！
