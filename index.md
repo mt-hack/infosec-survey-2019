@@ -1,4 +1,3 @@
-# "A Look Inside Taiwanese Tertiary Students’ Privacy and Cybersecurity Awareness" Research
 # 「一探台灣高等教育生對於資安以及網路隱私警覺度」研究
 
 ## 大綱 Abstract
